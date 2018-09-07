@@ -1,5 +1,5 @@
 //Husky Library
-/* global React ReactDOM */
+//2:06 -Part1
 
 const Pet = props =>
     React.createElement("div", {}, [
