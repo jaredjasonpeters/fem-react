@@ -1,0 +1,13 @@
+{
+    "git.ignoreLimitWarning": true,
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "eslint.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.run": "onType",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "prettier.eslintIntegration": true
+}
